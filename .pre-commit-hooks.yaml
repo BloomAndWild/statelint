@@ -1,0 +1,7 @@
+-   id: statelint
+    name: Run AWS Labs Statelint
+    description: Lint files written in ASL
+    entry: statelint
+    language: ruby
+    files: .*\.asl\.json
+
